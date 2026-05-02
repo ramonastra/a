@@ -2486,8 +2486,6 @@ https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network.m3u8
 http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/606px-CNA_new_logo.svg.png" group-title="General",Channel News Asia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/250px-Cinema_One_2013_logo.svg.png" group-title="General",Cinema One
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-cinemaone-dash-abscbnono/index.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/CLTV-36_Logo.jpeg" group-title="General",CLTV 36
 https://live.cltv36.tv:5443/LiveApp/streams/cltvlive.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cnn_logo_red_background.png" group-title="General",CNN
@@ -2497,8 +2495,6 @@ https://ds2c506obo7m8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://jmp2.uk/plu-6868152657543d1f8be4ece3.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Deluxe_Music_Logo_2019.svg/250px-Deluxe_Music_Logo_2019.svg.png" group-title="General",Deluxe Music
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Deluxe_Music_Logo_2019.svg/250px-Deluxe_Music_Logo_2019.svg.png" group-title="General",Deluxe Music (Z5 CDN)
-https://netplus.z5cable.com/live/eds/deluxemusic/browser-dash/deluxemusic.mpd
 #EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/5539c052982045.Y3JvcCwyNDU4LDE5MjQsNzA0LDg0.png" group-title="General",Discovery Asia
 https://cdn4.skygo.mn/live/disk1/Discovery_Asia/HLSv3-FTA/Discovery_Asia.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/Discovery_Science_Canada_2011.PNG" group-title="General",Discovery Science Cloudfront
@@ -2521,12 +2517,8 @@ https://amg00106-amg00106c1-samsung-ph-4550.playouts.now.amagi.tv/playlist.m3u8
 https://87755b6e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctY2FfR2FtZVNob3dDZW50cmFsLTFfSExT/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Game_Show_Network_2018.svg/541px-Game_Show_Network_2018.svg.png" group-title="General",Game Show Network
 https://a-cdn.klowdtv.com/live2/gsn_720p/chunks.m3u8
-#EXTINF:-1 group-title="General",Heart Of Asia
-http://hls.nathcreqtives.com/playlist.m3u8?id=1&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJ2ZW9zZXBoIiwiaWF0IjoxNzY2NjkxNzY5LCJleHAiOjE3NjY5MjA1MjEsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjkyMDUyMX0._LaTxk9NsjRB49m1FfpRdHGFBUZsSZ0OlTbq3dy0rdM
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TB2gHngG/Hope-Channel-Philippines-Logo-2010.png" group-title="General",Hope Channel
 https://jstre.am/live/jsl:7A1swL7Fhlh.m3u8
-#EXTINF:-1 group-title="General",I Heart Movies
-http://hls.nathcreqtives.com/playlist.m3u8?id=2&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJ2ZW9zZXBoIiwiaWF0IjoxNzY2NjkxNzY5LCJleHAiOjE3NjY5MjA1MjEsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjkyMDUyMX0._LaTxk9NsjRB49m1FfpRdHGFBUZsSZ0OlTbq3dy0rdM
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Just_For_Laughs_Gags.png/500px-Just_For_Laughs_Gags.png" group-title="General",Just For Laughs
 https://4ba34d83c35d4422aa017937f6891aef.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LocalNow_JustForLaughsGags/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Just_For_Laughs_Gags.png/500px-Just_For_Laughs_Gags.png" group-title="General",Just For Laughs Show
@@ -2563,22 +2555,16 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 http://118.142.17.190:8278/now90hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Outdoor_Channel_logo_2017.svg/640px-Outdoor_Channel_logo_2017.svg.png" group-title="General",Outdoor
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/Paramount-Network.jpg" group-title="General",Paramount
-https://livecdn-iptv001.rumsport.com/stream/14839/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/PremierSports-ph.png" group-title="General",Premier Sports
 https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/PremierSports2_logo.png/revision/latest?cb=20220528091432" group-title="General",Premier Sports 2
 https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/895e6e666175009e005d2c3b6759db0ad159320cb3f11118e6301deb04e72251.png" group-title="General",Racing America
 https://racingamerica-plex.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VpwBF4bf/image.png" group-title="General",Rage TV
-https://bztv.z5cable.com/giatv/giatv-ragetv/ragetv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://img.redbull.com/images/w_250/q_auto,f_auto/redbullcom/2021/3/8/v1viztxjab9e9a6of4by/redbulltv" group-title="General",Redbull TV
 https://d3k3xxewhm1my2.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/768px-Russia-today-logo.svg.png" group-title="General",RT
 https://rt-glb.rttv.com/dvr/rtnews/playlist_2500Kb.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/SMNI39.jpg" group-title="General",SMNI
-http://161.49.17.2:6610/001/2/ch00000090990000001155/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ch60yRwW/image.png" group-title="General",Sony Cine
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/239px-Sony_Movies_Logo.svg.png" group-title="General",Sony Movies
@@ -2612,9 +2598,6 @@ https://cdn4.skygo.mn/live/disk1/Zoomoo/HLSv3-FTA/Zoomoo.m3u8
 #EXTINF: tvg-logo="https://i.ibb.co/BH1KMcqp/image.png" group-title="General", ZSine
 https://amg17931-zee-amg17931c9-samsung-ph-6528.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeesine-samsungph/playlist.m3u8
 
-#EXTINF: tvg-logo="https://i.ibb.co/qYw7ZgLf/image.png" group-title="General", Miramax
-https://raw.githubusercontent.com/xaaMee/ee/main/mrmx.m3u8
-
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/wthfwe.jpeg" group-title="General",Movies Now HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
@@ -2636,7 +2619,13 @@ https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
 https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
 
 #EXTINF:-1 tvg-logo="https://cdn.smartads.in/images/product/television/Star-Movies-HD.png" group-title="General",Star Movies HD
-http://desyra.co:80/8964476/3pUJreUXUW/979
+http://103.157.248.140:8000/play/a01t/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/STAR-MOVIES-SELECT-HD.png" group-title="General",Star Movies Select
+http://desyra.co:80/8964476/3pUJreUXUW/218
+
+#EXTINF:-1 tvg-logo="https://tapdmv.com/content/images/2025/10/sinengtagalog-art-1.jpg" group-title="General",Tapsilog
+rtmp://210.4.112.99:1935/tapdmv/TVN_movies
 
 #EXTINF:-1 tvg-logo="https://poc-cf-image.cjenm.com/public/share/metamng/channel/ocn%20movie_color_118x50.png" group-title="General", OCN Movies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -4171,4 +4160,63 @@ https://d2aefbad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VENMVF
 #EXTINF:-1 group-title="TCL+",Z Nation
 https://d3f4oii5n0oeqi.cloudfront.net/11701/88884552/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=88884552&ads.xumo_streamId=88884552&declaredCC1Language=en&ads.caid=ZNation&ads.csid=tcl2_us_znation_ssai&ads.xumo_ifaType=%5BIFA_TYPE%5D&ads.xumo_ifa=%5BIFA%5D&ads.appName=%5BAPP_NAME%5D&ads.appVersion=%5BAPP_VERSION%5D&ads._fw_app_bundle=%5BTCL_APP_BUNDLE%5D&ads.genre=Action%252CAdventure%252CComedy%252CCrime%252CDrama%252CFamily%252CFantasy%252CHorror%252CMystery%252CRomance%252CSci-Fi%252CThriller%252CWar%252CWestern%252CSuperhero&ads._fw_content_category=IAB1-5&ads._fw_content_genre=television&ads._fw_content_language=en&ads._fw_content_rating=tv-14&ads._fw_deviceMake=%5BDEVICE_MAKE%5D&ads._fw_device_model=%5BDEVICE_MODEL%5D&ads._fw_devicetype=3-Connected_TV&ads._fw_coppa=0&ads._fw_is_lat=%5BLMT%5D&ads._fw_us_privacy=%5BUS_PRIVACY%5D&ads._fw_h_x_country=US&ads._fw_player_width=%5BPLAYER_WIDTH%5D&ads._fw_player_height=%5BPLAYER_HEIGHT%5D&ads.xumo_contentId=5&ads.xumo_contentName=ZNation&ads.xumo_providerId=5&ads.xumo_providerName=ZNation&ads.xumo_channelName=ZNation&ads._fw_app_store_url=%5BTCL_APP_STORE_URL%5D
 
-
+#EXTINF:-1 tvg-id="SkyCinemaAction.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-action-icon-uk.png?raw=true" group-title="UK | SKY CINEMA",Sky Cinema Action HD
+http://inthezone.pro:80/Sofia/Sofia/630956
+#EXTINF:-1 tvg-id="SkyCinemaAction.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-action-icon-uk.png?raw=true" group-title="UK | SKY CINEMA",Sky Cinema Action FHD
+http://inthezone.pro:80/Sofia/Sofia/630957
+#EXTINF:-1 tvg-id="SkyCinemaAnimation.uk" tvg-logo="http://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-animation-icon-uk.png?raw=true" group-title="UK | SKY CINEMA",Sky Cinema Animation HD
+http://inthezone.pro:80/Sofia/Sofia/630960
+#EXTINF:-1 tvg-id="SkyCinemaAnimation.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-animation-icon-uk.png?raw=true" group-title="UK | SKY CINEMA",Sky Cinema Animation FHD
+http://inthezone.pro:80/Sofia/Sofia/630961
+#EXTINF:-1 tvg-id="SkyCinemaComedy.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-comedy-icon-uk.png?raw=true" group-title="UK | SKY CINEMA",Sky Cinema Comedy HD
+http://inthezone.pro:80/Sofia/Sofia/630954
+#EXTINF:-1 tvg-id="SkyCinemaComedy.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-comedy-icon-uk.png?raw=true" group-title="UK | SKY CINEMA",Sky Cinema Comedy FHD
+http://inthezone.pro:80/Sofia/Sofia/630955
+#EXTINF:-1 tvg-id="SkyCinemaThriller.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-thriller-icon-uk.png?raw=true" group-title="UK | SKY CINEMA",Sky Cinema Crime and Thriller HD
+http://inthezone.pro:80/Sofia/Sofia/630958
+#EXTINF:-1 tvg-id="SkyCinemaThriller.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-thriller-icon-uk.png?raw=true" group-title="UK | SKY CINEMA",Sky Cinema Crime and Thriller FHD
+http://inthezone.pro:80/Sofia/Sofia/630959
+#EXTINF:-1 tvg-id="SkyCinemaDrama.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-drama-icon-uk.png?raw=true" group-title="UK | SKY CINEMA",Sky Cinema Drama HD
+http://inthezone.pro:80/Sofia/Sofia/630952
+#EXTINF:-1 tvg-id="SkyCinemaDrama.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-drama-icon-uk.png?raw=true" group-title="UK | SKY CINEMA",Sky Cinema Drama FHD
+http://inthezone.pro:80/Sofia/Sofia/630953
+#EXTINF:-1 tvg-id="SkyCinemaFamily.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-family-icon-uk.png?raw=true" group-title="UK | SKY CINEMA",Sky Cinema Family HD
+http://inthezone.pro:80/Sofia/Sofia/630950
+#EXTINF:-1 tvg-id="SkyCinemaFamily.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-family-icon-uk.png?raw=true" group-title="UK | SKY CINEMA",Sky Cinema Family FHD
+http://inthezone.pro:80/Sofia/Sofia/630951
+#EXTINF:-1 tvg-id="SkyCinemaGreats.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-greats-icon-uk.png?raw=true" group-title="UK | SKY CINEMA",Sky Cinema Greats HD
+http://inthezone.pro:80/Sofia/Sofia/630968
+#EXTINF:-1 tvg-id="SkyCinemaGreats.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-greats-icon-uk.png?raw=true" group-title="UK | SKY CINEMA",Sky Cinema Greats FHD
+http://inthezone.pro:80/Sofia/Sofia/630969
+#EXTINF:-1 tvg-id="SkyCinemaHits.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-hits-icon-uk.png?raw=true" group-title="UK | SKY CINEMA",Sky Cinema Hits HD
+http://inthezone.pro:80/Sofia/Sofia/630964
+#EXTINF:-1 tvg-id="SkyCinemaHits.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-hits-icon-uk.png?raw=true" group-title="UK | SKY CINEMA",Sky Cinema Hits FHD
+http://inthezone.pro:80/Sofia/Sofia/630965
+#EXTINF:-1 tvg-id="SkyCinemaPremiere.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-premiere-icon-uk.png?raw=true" group-title="UK | SKY CINEMA",Sky Cinema Premiere HD
+http://inthezone.pro:80/Sofia/Sofia/630948
+#EXTINF:-1 tvg-id="SkyCinemaPremiere.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-premiere-icon-uk.png?raw=true" group-title="UK | SKY CINEMA",Sky Cinema Premiere FHD
+http://inthezone.pro:80/Sofia/Sofia/630949
+#EXTINF:-1 tvg-id="SkyCinemaSci-fiAndHorror.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-sci-fi-horror-icon-uk.png?raw=true" group-title="UK | SKY CINEMA",Sky Cinema Scifi Horror HD
+http://inthezone.pro:80/Sofia/Sofia/630966
+#EXTINF:-1 tvg-id="SkyCinemaSci-fiAndHorror.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-sci-fi-horror-icon-uk.png?raw=true" group-title="UK | SKY CINEMA",Sky Cinema Scifi Horror FHD
+http://inthezone.pro:80/Sofia/Sofia/630967
+#EXTINF:-1 tvg-id="SkySelect.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-select-icon-uk.png?raw=true" group-title="UK | SKY CINEMA",Sky Cinema Select HD
+http://inthezone.pro:80/Sofia/Sofia/630962
+#EXTINF:-1 tvg-id="SkySelect.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-select-icon-uk.png?raw=true" group-title="UK | SKY CINEMA",Sky Cinema Select FHD
+http://inthezone.pro:80/Sofia/Sofia/630963
+#EXTINF:-1 tvg-id="Film4.uk" tvg-logo="https://scfcrulez.com:443/images/21058c39086f6308b16c2a0d707abe0f.png" group-title="UK | SKY CINEMA",Film 4 HD
+http://inthezone.pro:80/Sofia/Sofia/630974
+#EXTINF:-1 tvg-id="GREAT!movies.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/great-movies-uk.png?raw=true" group-title="UK | SKY CINEMA",Great! Movies
+http://inthezone.pro:80/Sofia/Sofia/630971
+#EXTINF:-1 tvg-id="GREAT!action.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/great-action-uk.png?raw=true" group-title="UK | SKY CINEMA",Great! Movies Action
+http://inthezone.pro:80/Sofia/Sofia/630972
+#EXTINF:-1 tvg-id="GreatClassic.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Great%21_Movies_Classic_Logo.svg/revision/latest/scale-to-width-down/250?cb=20220402164421" group-title="UK | SKY CINEMA",Great! Movies Classic
+http://inthezone.pro:80/Sofia/Sofia/630970
+#EXTINF:-1 tvg-id="Movies24.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/movies-24-uk.png?raw=true" group-title="UK | SKY CINEMA",Movies 24
+http://inthezone.pro:80/Sofia/Sofia/630973
+#EXTINF:-1 tvg-id="SonyMovieChannel.us" tvg-logo="https://247hosting.xyz/images/Icons/sony.channel.uk.png" group-title="UK | SKY CINEMA",Sony Channel
+http://inthezone.pro:80/Sofia/Sofia/630975
+#EXTINF:-1 tvg-id="SonyMovieChannel.us" tvg-logo="https://247hosting.xyz/images/Icons/sony.movie.channel.us.png" group-title="UK | SKY CINEMA",Sony Movies Channel
+http://inthezone.pro:80/Sofia/Sofia/630976
+#EXTINF:-1 tvg-id="TalkingPictures.uk" tvg-logo="https://247hosting.xyz/images/Icons/talking.pictures.tv.uk.png" group-title="UK | SKY CINEMA",Talking Pictures
+http://inthezone.pro:80/Sofia/Sofia/638983
