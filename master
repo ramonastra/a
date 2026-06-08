@@ -1,5 +1,29 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz, https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/refs/heads/main/cignal_epg.xml, https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/refs/heads/main/sky_epg.xml"
 
+#EXTINF:-1 group-title="Comcl4rk" tvg-id="AbanteTV.ph@HD",Abante TV (1080p)
+https://streams.comclark.com/transcodesd/abante/playlist.m3u8
+
+#EXTINF:-1 group-title="Comcl4rk" tvg-id="BilyonaryoNewsChannel.ph@SD",Bilyonaryo News Channel (1080p)
+https://streams.comclark.com/transcode/bilyonaryo/playlist.m3u8
+
+#EXTINF:-1 group-title="Comcl4rk" tvg-id="FilAmTVNetwork.us@HD",FilAmTV Network
+https://streams.comclark.com/pknsd/filamtv/playlist.m3u8
+
+#EXTINF:-1 group-title="Comcl4rk" tvg-id="IBC13.ph@SD",IBC 13 (480p) [Not 24/7]
+https://streams.comclark.com/pknsd/ibc_13/playlist.m3u8
+
+#EXTINF:-1 group-title="Comcl4rk" tvg-id="LivingAsiaChannel.ph@HD",Living Asia Channel
+https://streams.comclark.com/pknsd/lac/playlist.m3u8
+
+#EXTINF:-1 group-title="Comcl4rk" tvg-id="MindanowNetworkTV.ph@SD",Mindanow Network TV
+https://streams.comclark.com/overlay/mindanow/playlist.m3u8
+
+#EXTINF:-1 group-title="Comcl4rk" tvg-id="PTV.ph@SD",PTV 4 (480p) [Not 24/7]
+https://streams.comclark.com/pknsd/ptv/playlist.m3u8
+
+#EXTINF:-1 group-title="Comcl4rk" tvg-id="VegasLifeTV.us@HD",Vegas Life TV
+https://streams.comclark.com/pknsd/vegaslifetv/playlist.m3u8
+
 #EXTINF:-1 group-title="Sony LIV",Sony Sports 1 HD
 #EXTVLCOPT:http-referrer=https://b4uplay.com/
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://b4uplay.com/
