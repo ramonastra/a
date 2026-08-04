@@ -708,20 +708,35 @@ http://cdn2.djdoolky76.com/blast/220940.m3u8
 #EXTINF:-1 tvg-id="tapsilog" tvg-name="Tapsilog" tvg-chno="12" tvg-logo="https://img.dge-prod.dicelaboratory.com/original/2026/02/26103355-zxquxyvdnwpsp4lq.png" group-title="BlastTV", Tapsilog
 http://cdn2.djdoolky76.com/blast/300024.m3u8
 
+#EXTINF:-1 group-title="Comcl4rk" tvg-id="A2Z.ph@SD",A2Z (480p) [Not 24/7]
+https://streams.comclark.com/pknsd/a2z/playlist.m3u8
+
 #EXTINF:-1 group-title="Comcl4rk" tvg-id="AbanteTV.ph@HD",Abante TV (1080p)
 https://streams.comclark.com/transcodesd/abante/playlist.m3u8
+
+#EXTINF:-1 group-title="Comcl4rk" tvg-id="AllTV.ph@SD",ALLTV2 (480p) [Not 24/7]
+https://streams.comclark.com/pknsd/alltv/playlist.m3u8
+
+#EXTINF:-1 group-title="Comcl4rk" tvg-id="ANC.ph@SD",ANC (480p)
+https://streams.comclark.com/pknsd/anc/playlist.m3u8
 
 #EXTINF:-1 group-title="Comcl4rk" tvg-id="BilyonaryoNewsChannel.ph@SD",Bilyonaryo News Channel (1080p)
 https://streams.comclark.com/transcode/bilyonaryo/playlist.m3u8
 
-#EXTINF:-1 group-title="Comcl4rk",Blast Sports
-rtmp://210.4.112.99:1935/tapdmv/blastSports
+#EXTINF:-1 group-title="Comcl4rk" tvg-id="CineMo.ph@SD",Cinemo (480p)
+https://streams.comclark.com/pknsd/cinemo/playlist.m3u8
 
 #EXTINF:-1 group-title="Comcl4rk" tvg-id="FilAmTVNetwork.us@HD",FilAmTV Network
 https://streams.comclark.com/pknsd/filamtv/playlist.m3u8
 
+#EXTINF:-1 group-title="Comcl4rk" tvg-id="GTV.ph@SD",GTV (480p) [Not 24/7]
+https://streams.comclark.com/pknsd/gtv/playlist.m3u8
+
 #EXTINF:-1 group-title="Comcl4rk" tvg-id="IBC13.ph@SD",IBC 13 (480p) [Not 24/7]
 https://streams.comclark.com/pknsd/ibc_13/playlist.m3u8
+
+#EXTINF:-1 group-title="Comcl4rk" tvg-id="JeepneyTV.ph@SD",Jeepney TV (480p)
+https://streams.comclark.com/pknsd/jeepney/playlist.m3u8
 
 #EXTINF:-1 group-title="Comcl4rk" tvg-id="LivingAsiaChannel.ph@HD",Living Asia Channel
 https://streams.comclark.com/pknsd/lac/playlist.m3u8
@@ -732,14 +747,23 @@ https://streams.comclark.com/overlay/mindanow/playlist.m3u8
 #EXTINF:-1 group-title="Comcl4rk" tvg-id="PTV.ph@SD",PTV 4 (480p) [Not 24/7]
 https://streams.comclark.com/pknsd/ptv/playlist.m3u8
 
+#EXTINF:-1 group-title="Comcl4rk" tvg-id="RPTV.ph@SD",RPTV (480p) [Not 24/7]
+https://streams.comclark.com/pknsd/rptv/playlist.m3u8
+
+#EXTINF:-1 group-title="Comcl4rk" tvg-id="TV5.ph@SD",TV5 (480p) [Not 24/7]
+https://streams.comclark.com/pknsd/tv5/playlist.m3u8
+
+#EXTINF:-1 group-title="Comcl4rk" group-title="Comcl4rk" tvg-id="VegasLifeTV.us@HD",Vegas Life TV
+https://streams.comclark.com/pknsd/vegaslifetv/playlist.m3u8
+
+#EXTINF:-1 group-title="Comcl4rk",Blast Sports
+rtmp://210.4.112.99:1935/tapdmv/blastSports
+
 #EXTINF:-1 group-title="Comcl4rk",TapSilog
 rtmp://210.4.112.99:1935/tapdmv/TVN_movies
 
 #EXTINF:-1 group-title="Comcl4rk",UFCTV
 rtmp://210.4.112.99:1935/tapdmv/UFCTV
-
-#EXTINF:-1 group-title="Comcl4rk" tvg-id="VegasLifeTV.us@HD",Vegas Life TV
-https://streams.comclark.com/pknsd/vegaslifetv/playlist.m3u8
 
 #EXTINF:-1 group-title="Sony LIV",Sony Sports 1 HD
 #EXTVLCOPT:http-referrer=https://b4uplay.com/
