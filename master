@@ -1,5 +1,179 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz, https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/refs/heads/main/cignal_epg.xml, https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/refs/heads/main/sky_epg.xml"
- 
+
+#EXTINF:-1 group-title="Comcl4rk",3ABN
+https://streams.comclark.com/pknsd/3abn/playlist.m3u8
+
+#EXTINF:-1 group-title="Comcl4rk" tvg-id="A2Z.ph@SD",A2Z (480p) [Not 24/7]
+https://streams.comclark.com/pknsd/a2z/playlist.m3u8
+
+#EXTINF:-1 group-title="Comcl4rk" tvg-id="AbanteTV.ph@HD",Abante TV (1080p)
+https://streams.comclark.com/transcodesd/abante/playlist.m3u8
+
+#EXTINF:-1 group-title="Comcl4rk" tvg-id="AllTV.ph@SD",ALLTV2 (480p) [Not 24/7]
+https://streams.comclark.com/pknsd/alltv/playlist.m3u8
+
+#EXTINF:-1 group-title="Comcl4rk" tvg-id="ANC.ph@SD",ANC (480p)
+https://streams.comclark.com/pknsd/anc/playlist.m3u8
+
+#EXTINF:-1 group-title="Comcl4rk" tvg-id="BilyonaryoNewsChannel.ph@SD",Bilyonaryo News Channel (1080p)
+https://streams.comclark.com/transcode/bilyonaryo/playlist.m3u8
+
+#EXTINF:-1 group-title="Comcl4rk",Cinema One
+https://streams.comclark.com/pknsd/cinemaone/playlist.m3u8
+
+#EXTINF:-1 group-title="Comcl4rk" tvg-id="CineMo.ph@SD",Cinemo (480p)
+https://streams.comclark.com/pknsd/cinemo/playlist.m3u8
+
+#EXTINF:-1 group-title="Comcl4rk",CNN
+https://streams.comclark.com/pknhd/cnn_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Comcl4rk",DWTV
+https://streams.comclark.com/pknsd/deutsche_welle/playlist.m3u8
+
+#EXTINF:-1 group-title="Comcl4rk",DZMM Teleradyo
+https://streams.comclark.com/pknsd/teleradyo/playlist.m3u8
+
+#EXTINF:-1 group-title="Comcl4rk",Edgesports
+https://streams.comclark.com/pknsd/edgesports/playlist.m3u8
+
+#EXTINF:-1 group-title="Comcl4rk" tvg-id="FilAmTVNetwork.us@HD",FilAmTV Network
+https://streams.comclark.com/pknsd/filamtv/playlist.m3u8
+
+#EXTINF:-1 group-title="Comcl4rk",GMA
+https://streams.comclark.com/pknsd/gma_7/chunks.m3u8
+
+#EXTINF:-1 group-title="Comcl4rk",GNN
+https://streams.comclark.com/pknsd/onemedia/playlist.m3u8
+
+#EXTINF:-1 group-title="Comcl4rk" tvg-id="GTV.ph@SD",GTV (480p) [Not 24/7]
+https://streams.comclark.com/pknsd/gtv/playlist.m3u8
+
+#EXTINF:-1 group-title="Comcl4rk" tvg-id="IBC13.ph@SD",IBC 13 (480p) [Not 24/7]
+https://streams.comclark.com/pknsd/ibc_13/playlist.m3u8
+
+#EXTINF:-1 group-title="Comcl4rk",INC TV
+https://streams.comclark.com/pknsd/inc_tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Comcl4rk" tvg-id="JeepneyTV.ph@SD",Jeepney TV (480p)
+https://streams.comclark.com/pknsd/jeepney/playlist.m3u8
+
+#EXTINF:-1 group-title="Comcl4rk",Kapamilya
+https://streams.comclark.com/pknhd/kapamilya_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Comcl4rk",Light TV
+https://streams.comclark.com/pknsd/light_tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Comcl4rk" tvg-id="LivingAsiaChannel.ph@HD",Living Asia Channel
+https://streams.comclark.com/pknsd/lac/playlist.m3u8
+
+#EXTINF:-1 group-title="Comcl4rk" tvg-id="MindanowNetworkTV.ph@SD",Mindanow Network TV
+https://streams.comclark.com/overlay/mindanow/playlist.m3u8
+
+#EXTINF:-1 group-title="Comcl4rk",Nick Jr.
+https://streams.comclark.com/pknsd/nickjr/playlist.m3u8
+
+#EXTINF:-1 group-title="Comcl4rk",One Sports
+https://streams.comclark.com/pknsd/one_sports/playlist.m3u8
+
+#EXTINF:-1 group-title="Comcl4rk" tvg-id="PTV.ph@SD",PTV 4 (480p) [Not 24/7]
+https://streams.comclark.com/pknsd/ptv/playlist.m3u8
+
+#EXTINF:-1 group-title="Comcl4rk",Rock MNL
+https://streams.comclark.com/pknsd/rock_tv_of_manila/playlist.m3u8
+
+#EXTINF:-1 group-title="Comcl4rk" tvg-id="RPTV.ph@SD",RPTV (480p) [Not 24/7]
+https://streams.comclark.com/pknsd/rptv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CCTV4.ch@SD",CCTV 4 (480p)
+https://streams.comclark.com/pknsd/cctv_4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Thrill.hk@SD",Thrill (480p)
+https://streams.comclark.com/pknsd/thrill/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TAPEdge.ph@SD",Tap Edge (480p)
+https://streams.comclark.com/pknsd/tapedge/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TAPTV.ph@SD",Tap TV (480p)
+https://streams.comclark.com/pknsd/taptv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TAPActionFlix.ph@SD",Tap Action Flix (480p)
+https://streams.comclark.com/pknsd/tapactionflix/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TAPMovies.ph@SD",Tap Movies (480p)
+https://streams.comclark.com/pknsd/tapmovies/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TAPSports.ph@SD",Tap Sports (480p)
+https://streams.comclark.com/pknsd/tapsports/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MYX.ph@SD",MYX (480p)
+https://streams.comclark.com/pknsd/myx/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CGTN.ch@SD",CGTN (480p)
+https://streams.comclark.com/pknsd/cgtn/playlist.m3u8
+
+#EXTINF:-1 group-title="Comcl4rk",TMC
+https://streams.comclark.com/pknsd/tmc/playlist.m3u8
+
+#EXTINF:-1 group-title="Comcl4rk" tvg-id="TV5.ph@SD",TV5 (480p) [Not 24/7]
+https://streams.comclark.com/pknsd/tv5/playlist.m3u8
+
+#EXTINF:-1 group-title="Comcl4rk",TVe
+https://streams.comclark.com/pknsd/tve/playlist.m3u8
+
+#EXTINF:-1 group-title="Comcl4rk",UNTV
+https://streams.comclark.com/pknsd/untv/playlist.m3u8
+
+#EXTINF:-1 group-title="Comcl4rk" group-title="Comcl4rk" tvg-id="VegasLifeTV.us@HD",Vegas Life TV
+https://streams.comclark.com/pknsd/vegaslifetv/playlist.m3u8
+
+#EXTINF:-1 group-title="Comcl4rk",Viva Cinema
+https://streams.comclark.com/pknsd/viva/playlist.m3u8
+
+#EXTINF:-1 group-title="Comcl4rk",CGTN Documentary
+https://streams.comclark.com/pknsd/cgtn_documentary/playlist.m3u8
+
+#EXTINF:-1 group-title="Comcl4rk",Star Channel 1
+https://streams.comclark.com/pknsd/starchannel1/playlist.m3u8
+
+#EXTINF:-1 group-title="Comcl4rk",Fuji 
+https://streams.comclark.com/pknsd/fuji/playlist.m3u8
+
+#EXTINF:-1 group-title="Comcl4rk",NHK BS
+https://streams.comclark.com/pknsd/nhk_bs1/playlist.m3u8
+
+#EXTINF:-1 group-title="Comcl4rk",NHK World
+https://streams.comclark.com/pknsd/nhk_world/playlist.m3u8
+
+#EXTINF:-1 group-title="Comcl4rk",Euro News
+https://streams.comclark.com/pknsd/euronews/playlist.m3u8
+
+#EXTINF:-1 group-title="Comcl4rk",EWTN
+https://streams.comclark.com/pknsd/ewtn/playlist.m3u8
+
+#EXTINF:-1 group-title="Comcl4rk",AXN
+https://streams.comclark.com/pknhd/axn/playlist.m3u8
+
+#EXTINF:-1 group-title="Comcl4rk",Arirang
+https://streams.comclark.com/pknsd/arirang/playlist.m3u8
+
+#EXTINF:-1 group-title="Comcl4rk",ABC Australia
+https://streams.comclark.com/pknsd/abc_australia/playlist.m3u8
+
+#EXTINF:-1 group-title="Comcl4rk",TBN Asia
+https://streams.comclark.com/pknsd/tbn/playlist.m3u8
+
+#EXTINF:-1 group-title="Comcl4rk",TV5 Monde
+https://streams.comclark.com/pknsd/tv5monde/playlist.m3u8
+
+#EXTINF:-1 group-title="Comcl4rk",Blast Sports
+rtmp://210.4.112.99:1935/tapdmv/blastSports
+
+#EXTINF:-1 group-title="Comcl4rk",TapSilog
+rtmp://210.4.112.99:1935/tapdmv/TVN_movies
+
+#EXTINF:-1 group-title="Comcl4rk",UFCTV
+rtmp://210.4.112.99:1935/tapdmv/UFCTV
+
 #EXTINF:-1 group-title="CGREEN-161" tvg-logo="https://i.imgur.com/WcYS3S3.png",KAPAMILYA HD
 http://136.239.158.30:6610/001/2/ch00000090990000001286/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bqw65FFCygtQMRRIUPF0xuXytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001694&contentid=ch00000000000000001694&videoid=ch00000090990000001286&recommendtype=0&userid=1004802317138&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=CCJLYZ04O9IXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
@@ -707,63 +881,6 @@ http://cdn2.djdoolky76.com/blast/220940.m3u8
 
 #EXTINF:-1 tvg-id="tapsilog" tvg-name="Tapsilog" tvg-chno="12" tvg-logo="https://img.dge-prod.dicelaboratory.com/original/2026/02/26103355-zxquxyvdnwpsp4lq.png" group-title="BlastTV", Tapsilog
 http://cdn2.djdoolky76.com/blast/300024.m3u8
-
-#EXTINF:-1 group-title="Comcl4rk" tvg-id="A2Z.ph@SD",A2Z (480p) [Not 24/7]
-https://streams.comclark.com/pknsd/a2z/playlist.m3u8
-
-#EXTINF:-1 group-title="Comcl4rk" tvg-id="AbanteTV.ph@HD",Abante TV (1080p)
-https://streams.comclark.com/transcodesd/abante/playlist.m3u8
-
-#EXTINF:-1 group-title="Comcl4rk" tvg-id="AllTV.ph@SD",ALLTV2 (480p) [Not 24/7]
-https://streams.comclark.com/pknsd/alltv/playlist.m3u8
-
-#EXTINF:-1 group-title="Comcl4rk" tvg-id="ANC.ph@SD",ANC (480p)
-https://streams.comclark.com/pknsd/anc/playlist.m3u8
-
-#EXTINF:-1 group-title="Comcl4rk" tvg-id="BilyonaryoNewsChannel.ph@SD",Bilyonaryo News Channel (1080p)
-https://streams.comclark.com/transcode/bilyonaryo/playlist.m3u8
-
-#EXTINF:-1 group-title="Comcl4rk" tvg-id="CineMo.ph@SD",Cinemo (480p)
-https://streams.comclark.com/pknsd/cinemo/playlist.m3u8
-
-#EXTINF:-1 group-title="Comcl4rk" tvg-id="FilAmTVNetwork.us@HD",FilAmTV Network
-https://streams.comclark.com/pknsd/filamtv/playlist.m3u8
-
-#EXTINF:-1 group-title="Comcl4rk" tvg-id="GTV.ph@SD",GTV (480p) [Not 24/7]
-https://streams.comclark.com/pknsd/gtv/playlist.m3u8
-
-#EXTINF:-1 group-title="Comcl4rk" tvg-id="IBC13.ph@SD",IBC 13 (480p) [Not 24/7]
-https://streams.comclark.com/pknsd/ibc_13/playlist.m3u8
-
-#EXTINF:-1 group-title="Comcl4rk" tvg-id="JeepneyTV.ph@SD",Jeepney TV (480p)
-https://streams.comclark.com/pknsd/jeepney/playlist.m3u8
-
-#EXTINF:-1 group-title="Comcl4rk" tvg-id="LivingAsiaChannel.ph@HD",Living Asia Channel
-https://streams.comclark.com/pknsd/lac/playlist.m3u8
-
-#EXTINF:-1 group-title="Comcl4rk" tvg-id="MindanowNetworkTV.ph@SD",Mindanow Network TV
-https://streams.comclark.com/overlay/mindanow/playlist.m3u8
-
-#EXTINF:-1 group-title="Comcl4rk" tvg-id="PTV.ph@SD",PTV 4 (480p) [Not 24/7]
-https://streams.comclark.com/pknsd/ptv/playlist.m3u8
-
-#EXTINF:-1 group-title="Comcl4rk" tvg-id="RPTV.ph@SD",RPTV (480p) [Not 24/7]
-https://streams.comclark.com/pknsd/rptv/playlist.m3u8
-
-#EXTINF:-1 group-title="Comcl4rk" tvg-id="TV5.ph@SD",TV5 (480p) [Not 24/7]
-https://streams.comclark.com/pknsd/tv5/playlist.m3u8
-
-#EXTINF:-1 group-title="Comcl4rk" group-title="Comcl4rk" tvg-id="VegasLifeTV.us@HD",Vegas Life TV
-https://streams.comclark.com/pknsd/vegaslifetv/playlist.m3u8
-
-#EXTINF:-1 group-title="Comcl4rk",Blast Sports
-rtmp://210.4.112.99:1935/tapdmv/blastSports
-
-#EXTINF:-1 group-title="Comcl4rk",TapSilog
-rtmp://210.4.112.99:1935/tapdmv/TVN_movies
-
-#EXTINF:-1 group-title="Comcl4rk",UFCTV
-rtmp://210.4.112.99:1935/tapdmv/UFCTV
 
 #EXTINF:-1 group-title="Sony LIV",Sony Sports 1 HD
 #EXTVLCOPT:http-referrer=https://b4uplay.com/
