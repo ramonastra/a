@@ -18,6 +18,9 @@ https://streams.comclark.com/pknsd/anc/playlist.m3u8
 #EXTINF:-1 group-title="Comcl4rk" tvg-id="BilyonaryoNewsChannel.ph@SD",Bilyonaryo News Channel (1080p)
 https://streams.comclark.com/transcode/bilyonaryo/playlist.m3u8
 
+#EXTINF:-1 group-title="Comcl4rk",Channel News Asia
+https://streams.comclark.com/pknsd/channel_news_asia/playlist.m3u8
+
 #EXTINF:-1 group-title="Comcl4rk",Cinema One
 https://streams.comclark.com/pknsd/cinemaone/playlist.m3u8
 
@@ -66,6 +69,9 @@ https://streams.comclark.com/pknsd/light_tv/playlist.m3u8
 #EXTINF:-1 group-title="Comcl4rk" tvg-id="LivingAsiaChannel.ph@HD",Living Asia Channel
 https://streams.comclark.com/pknsd/lac/playlist.m3u8
 
+#EXTINF:-1 group-title="Comcl4rk",Lotus Macau
+https://streams.comclark.com/pknhd/lotus_macau_hd/playlist.m3u8
+
 #EXTINF:-1 group-title="Comcl4rk" tvg-id="MindanowNetworkTV.ph@SD",Mindanow Network TV
 https://streams.comclark.com/overlay/mindanow/playlist.m3u8
 
@@ -74,6 +80,12 @@ https://streams.comclark.com/pknsd/nickjr/playlist.m3u8
 
 #EXTINF:-1 group-title="Comcl4rk",One Sports
 https://streams.comclark.com/pknsd/one_sports/playlist.m3u8
+
+#EXTINF:-1 group-title="Comcl4rk",Premier Football
+https://streams.comclark.com/pknhd/premier_football/playlist.m3u8
+
+#EXTINF:-1 group-title="Comcl4rk",Premier Sports
+https://streams.comclark.com/pknhd/premier_sports/playlist.m3u8
 
 #EXTINF:-1 group-title="Comcl4rk" tvg-id="PTV.ph@SD",PTV 4 (480p) [Not 24/7]
 https://streams.comclark.com/pknsd/ptv/playlist.m3u8
@@ -104,6 +116,9 @@ https://streams.comclark.com/pknsd/tapmovies/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TAPSports.ph@SD",Tap Sports (480p)
 https://streams.comclark.com/pknsd/tapsports/playlist.m3u8
+
+#EXTINF:-1 group-title="Comcl4rk",TV Maria
+https://streams.comclark.com/pknsd/tvmaria/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MYX.ph@SD",MYX (480p)
 https://streams.comclark.com/pknsd/myx/playlist.m3u8
