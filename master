@@ -96,25 +96,25 @@ https://streams.comclark.com/pknsd/rock_tv_of_manila/playlist.m3u8
 #EXTINF:-1 group-title="Comcl4rk" tvg-id="RPTV.ph@SD",RPTV (480p) [Not 24/7]
 https://streams.comclark.com/pknsd/rptv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CCTV4.ch@SD",CCTV 4 (480p)
+#EXTINF:-1 group-title="Comcl4rk" tvg-id="CCTV4.ch@SD",CCTV 4 (480p)
 https://streams.comclark.com/pknsd/cctv_4/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Thrill.hk@SD",Thrill (480p)
+#EXTINF:-1 group-title="Comcl4rk" tvg-id="Thrill.hk@SD",Thrill (480p)
 https://streams.comclark.com/pknsd/thrill/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TAPEdge.ph@SD",Tap Edge (480p)
+#EXTINF:-1 group-title="Comcl4rk" tvg-id="TAPEdge.ph@SD",Tap Edge (480p)
 https://streams.comclark.com/pknsd/tapedge/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TAPTV.ph@SD",Tap TV (480p)
+#EXTINF:-1 group-title="Comcl4rk" tvg-id="TAPTV.ph@SD",Tap TV (480p)
 https://streams.comclark.com/pknsd/taptv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TAPActionFlix.ph@SD",Tap Action Flix (480p)
+#EXTINF:-1 group-title="Comcl4rk" tvg-id="TAPActionFlix.ph@SD",Tap Action Flix (480p)
 https://streams.comclark.com/pknsd/tapactionflix/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TAPMovies.ph@SD",Tap Movies (480p)
+#EXTINF:-1 group-title="Comcl4rk" tvg-id="TAPMovies.ph@SD",Tap Movies (480p)
 https://streams.comclark.com/pknsd/tapmovies/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TAPSports.ph@SD",Tap Sports (480p)
+#EXTINF:-1 group-title="Comcl4rk" tvg-id="TAPSports.ph@SD",Tap Sports (480p)
 https://streams.comclark.com/pknsd/tapsports/playlist.m3u8
 
 #EXTINF:-1 group-title="Comcl4rk",TV Maria
