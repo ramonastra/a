@@ -3394,13 +3394,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5106/default_ott.mpd
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/ABS-CBN_News_Channel_%282015%29.svg/640px-ABS-CBN_News_Channel_%282015%29.svg.png" group-title="General",ANC
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-anc-global-dash-abscbnono/index.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1YMxq3ks/image.png" group-title="General",ATBS Channel 21
-https://bztv.z5cable.com/giatv/giatv-ATBSGLOBAL/ATBSGLOBAL/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://randomrepublika.com/wp-content/uploads/2024/08/Bilyonaryo-News-Channel-8.jpg" group-title="General",Bilyonaryo News Channel
 https://amg19223-amg19223c11-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c11-amgplt0352/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/BBC_World_News_red.svg/640px-BBC_World_News_red.svg.png" group-title="General",BBC News
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://tunex.space/&origin=https://tunex.space&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-https://hide.skygoplus.workers.dev/bbc-news.m3u8
 #EXTINF: tvg-logo="https://i.ibb.co/RdzJRTF/image.png" group-title="General",Blast Movies
 https://amg19223-amg19223c7-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c7-amgplt0351/playlist.m3u8
 #EXTINF: tvg-logo="https://i.ibb.co/8DvBqyvv/image.png" group-title="General",Blast Sports
@@ -3450,6 +3445,8 @@ https://amg00106-amg00106c1-samsung-ph-4550.playouts.now.amagi.tv/playlist.m3u8
 https://87755b6e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctY2FfR2FtZVNob3dDZW50cmFsLTFfSExT/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Game_Show_Network_2018.svg/541px-Game_Show_Network_2018.svg.png" group-title="General",Game Show Network
 https://a-cdn.klowdtv.com/live2/gsn_720p/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.thefightcity.com/wp-content/uploads/2019/10/HBO-logo-image-1.jpg" group-title="General",HBO Boxing
+https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/aded6b1d-e76a-4a0f-84c8-fea975368aa0/3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TB2gHngG/Hope-Channel-Philippines-Logo-2010.png" group-title="General",Hope Channel
 https://jstre.am/live/jsl:7A1swL7Fhlh.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Just_For_Laughs_Gags.png/500px-Just_For_Laughs_Gags.png" group-title="General",Just For Laughs
@@ -3458,12 +3455,8 @@ https://4ba34d83c35d4422aa017937f6891aef.mediatailor.us-east-1.amazonaws.com/v1/
 https://streams2.sofast.tv/sofast4/v1/019a2ab65e59150752202a19e93695/019a2ae196fd1e2b6eeb3af6efe13f/justforlaughs_3500k.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ZdG0l2vnlMM/maxresdefault.jpg" group-title="General",Kapamilya
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/index.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/Lotus_TV_Macau_logo.jpg" group-title="General",Lotus Macau
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://tunex.space/&origin=https://tunex.space&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-https://hide.skygoplus.workers.dev/lotus-macau.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9kbM7FFL/moviesaction.png" group-title="General",Movies Action
-https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
+#EXTINF:-1 tvg-logo="https://maldivestv.mv/img/logo.png" group-title="General",Maldives
+https://lana.psm.mv/live/mtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MkDGfDcC/image.png" group-title="General",Movie Hub Action
 https://aka-live1050.delivery.roku.com/be8e0aad-9c0d-4b4d-ac10-d0c72bb6c7f3/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/b/ba/Nautical_Channel_%282020-.n.v.%29.png/revision/latest?cb=20200731113134" group-title="General",Nautical Channel
@@ -3550,12 +3543,6 @@ https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
 https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
-
-#EXTINF:-1 tvg-logo="https://cdn.smartads.in/images/product/television/Star-Movies-HD.png" group-title="General",Star Movies HD
-http://103.157.248.140:8000/play/a01t/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/STAR-MOVIES-SELECT-HD.png" group-title="General",Star Movies Select
-http://desyra.co:80/8964476/3pUJreUXUW/218
 
 #EXTINF:-1 tvg-logo="https://tapdmv.com/content/images/2025/10/sinengtagalog-art-1.jpg" group-title="General",Tapsilog
 rtmp://210.4.112.99:1935/tapdmv/TVN_movies
