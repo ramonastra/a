@@ -3441,7 +3441,9 @@ https://cdn4.skygo.mn/live/disk1/Dreambox/HLSv3-FTA/Dreambox.m3u8
 https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/768px-FRANCE_24_logo.svg.png" group-title="General",France24
 https://amg00106-amg00106c1-samsung-ph-4550.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="ttps://i.ibb.co/yFj1kpgp/image.png" group-title="General",Game Show Central
+#EXTINF:-1 tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/logo/FunBoxUHD-logo.png" group-title="General",FunBox HD
+https://webtvstream.bhtelecom.ba/hls15/funbox_1200.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yFj1kpgp/image.png" group-title="General",Game Show Central
 https://87755b6e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctY2FfR2FtZVNob3dDZW50cmFsLTFfSExT/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Game_Show_Network_2018.svg/541px-Game_Show_Network_2018.svg.png" group-title="General",Game Show Network
 https://a-cdn.klowdtv.com/live2/gsn_720p/chunks.m3u8
