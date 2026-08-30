@@ -3354,13 +3354,13 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5060/default_ott.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5106/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Abante_masthead.svg/330px-Abante_masthead.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" group-title="General",Abante
-https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg19223-amg19223c12-amgplt0352/dd1de122-a48c-11f1-9513-fe80c4589abe/73/1920x1080_5130400/index.m3u8
+https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/K7SNXxw/image.png" group-title="General",Action Hollywood
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images-cdn4.welcomesoftware.com/assets/atm+2.jpg/Zz04NmZjY2FkMjI2ZGUxMWYxODIxMWFlNDYyZDMwYjYzZg==?width=800&height=448" group-title="General",At the Movies
 https://s10host1.localnow.api.cms.amdvids.com/v1/manifest/c189661feba961c19bc5fb60b57879ee9b84548a/config12/67b0f8b9-d0c3-47fc-bd5c-081eccab125e/3.m3u8
 #EXTINF:-1 tvg-logo="https://randomrepublika.com/wp-content/uploads/2024/08/Bilyonaryo-News-Channel-8.jpg" group-title="General",Bilyonaryo News Channel
-https://amg19223-amg19223c11-amgplt0352.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg19223-amg19223c11-amgplt0352/977bb995-a48b-11f1-b2d4-ae0d56c3cd49/174/1920x1080_5129264/index.m3u8
+https://amg19223-amg19223c11-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c11-amgplt0352/playlist.m3u8
 #EXTINF: tvg-logo="https://i.ibb.co/RdzJRTF/image.png" group-title="General",Blast Movies
 https://amg19223-amg19223c7-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c7-amgplt0351/playlist.m3u8
 #EXTINF: tvg-logo="https://i.ibb.co/8DvBqyvv/image.png" group-title="General",Blast Sports
@@ -3463,9 +3463,9 @@ http://118.142.17.190:8278/now90hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Outdoor_Channel_logo_2017.svg/640px-Outdoor_Channel_logo_2017.svg.png" group-title="General",Outdoor
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/PremierSports-ph_2026.png" group-title="General",Premier Sports
-https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg19223-amg19223c3-amgplt0351/61e34aeb-a48c-11f1-831e-5a338d9e188a/164/1920x1080_5129264/index.m3u8
+https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/PremierSports2-ph_2026.png" group-title="General",Premier Sports 2
-https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg19223-amg19223c4-amgplt0351/a17559e6-a48c-11f1-a165-6e72de2b4883/92/1280x720_3000140/index.m3u8
+https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/895e6e666175009e005d2c3b6759db0ad159320cb3f11118e6301deb04e72251.png" group-title="General",Racing America
 https://racingamerica-plex.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-logo="https://img.redbull.com/images/w_250/q_auto,f_auto/redbullcom/2021/3/8/v1viztxjab9e9a6of4by/redbulltv" group-title="General",Redbull TV
