@@ -3430,6 +3430,8 @@ https://cdn.vegasplus.us/vegas/lac/chunks.m3u8?nimblesessionid=1880809
 https://lana.psm.mv/live/mtv.m3u8
 #EXTINF:-1 tvg-logo="https://ml02dtnc01wc.i.optimole.com/w:945/h:945/q:mauto/ig:avif/https://mindanownetwork.com/wp-content/uploads/2024/11/Mindanow-Network-Logo-Vertical.png" group-title="General",Mindanow Network
 https://cdn.vegasplus.us/vegas/mmn01/chunks.m3u8?nimblesessionid=1880432
+#EXTINF:-1 tvg-logo="https://lionsgatechannels.com/assets/img/moviesphere/movie-sphere-large-logo.png" group-title="General",Moviesphere by Lionsgate
+https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/30ae563f-070c-42c7-89e8-2ab3062ebac4/0.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/b/ba/Nautical_Channel_%282020-.n.v.%29.png/revision/latest?cb=20200731113134" group-title="General",Nautical Channel
 https://a-cdn.klowdtv.com/live2/nautical_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/NOW_70s.png/459px-NOW_70s.png" group-title="General",Now70s
