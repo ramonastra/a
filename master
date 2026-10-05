@@ -1,5 +1,25 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz, https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/refs/heads/main/cignal_epg.xml, https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/refs/heads/main/sky_epg.xml"
 
+#EXTINF:-1 group-title="ORKGTTC" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/08/Hollywood_Classics.png/revision/latest?cb=20230123164105&path-prefix=vi",Hollywood Classics
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+https://livebytsctbu.vtvprime.vn/mean/HC/manifest.mpd
+
+#EXTINF:-1 group-title="ORKGTTC" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/55/Box_Movie_1_logo_2023.png/revision/latest?cb=20230515132648&path-prefix=vi",In The Box Movie 1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+https://livebytsctbu.vtvprime.vn/mean/BM1/manifest.mpd
+
+#EXTINF:-1 group-title="ORKGTTC" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/86/Box_Hits_3D.png/revision/latest?cb=20230124143723&path-prefix=vi",Box hit
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+https://livebytsctbu.vtvprime.vn/mean/BOXHIT/manifest.mpd
+
+#EXTINF:-1 group-title="ORKGTTC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/ShortsTV_transparent_logo.png",Shorts TV
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b994480f788d41ddbc805862ac469416:78a6a0fc1758483595da7113e58e4467
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Shortstv2/default/manifest.mpd
+
 #EXTINF:-1 group-title="AB$-C8N" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Kapamilya_Channel_Logo_2020.svg/330px-Kapamilya_Channel_Logo_2020.svg.png",KapamilyaChannel
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bd17afb5dc9648a39be79ee3634dd4b8:b475084a1a58857e18480e30fbb0e544
@@ -50,215 +70,14 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-cinemo-dash-abscbnono
 #KODIPROP:inputstream.adaptive.license_key=58d0e56991194043b8fb82feb4db7276:c116c612201e178193693eced13d7319
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-cinemaone-dash-abscbnono/index.mpd
 
-#EXTINF:-1 group-title="C0MCL4RK",3ABN
-https://streams.comclark.com/pknsd/3abn/playlist.m3u8
-
-#EXTINF:-1 group-title="C0MCL4RK" tvg-id="A2Z.ph@SD",A2Z (480p) 
-https://streams.comclark.com/pknsd/a2z/playlist.m3u8
-
-#EXTINF:-1 group-title="C0MCL4RK" tvg-id="AbanteTV.ph@HD",Abante TV (1080p)
-https://streams.comclark.com/transcodesd/abante/playlist.m3u8
-
-#EXTINF:-1 group-title="C0MCL4RK",ABC Australia
-https://streams.comclark.com/pknsd/abc_australia/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AliwChannel23.ph@SD" tvg-logo="https://i.imgur.com/8q1BkZ3.png" group-title="C0MCL4RK",Aliw Channel 23 (480p) 
-https://streams.comclark.com/pknsd/aliw/playlist.m3u8
-
-#EXTINF:-1 group-title="C0MCL4RK" tvg-id="AllTV.ph@SD",ALLTV2 (480p) 
-https://streams.comclark.com/pknsd/alltv/playlist.m3u8
-
-#EXTINF:-1 group-title="C0MCL4RK" tvg-id="ANC.ph@SD",ANC (480p)
-https://streams.comclark.com/pknsd/anc/playlist.m3u8
-
-#EXTINF:-1 group-title="C0MCL4RK",Arirang
-https://streams.comclark.com/pknsd/arirang/playlist.m3u8
-
-#EXTINF:-1 group-title="C0MCL4RK",AXN
-https://streams.comclark.com/pknhd/axn/playlist.m3u8
-
-#EXTINF:-1 group-title="C0MCL4RK" tvg-id="BilyonaryoNewsChannel.ph@SD",Bilyonaryo News Channel (1080p)
-https://streams.comclark.com/transcode/bilyonaryo/playlist.m3u8
-
-#EXTINF:-1 group-title="C0MCL4RK",Blast Sports
+#EXTINF:-1 group-title="RTMP",Blast Sports
 rtmp://210.4.112.99:1935/tapdmv/blastSports
 
-#EXTINF:-1 tvg-id="BSFuji.jp@SD" tvg-logo="https://i.imgur.com/GzdCXAJ.png" group-title="C0MCL4RK",BS Fuji (1080p)
-https://streams.comclark.com/pknsd/fuji/playlist.m3u8
-
-#EXTINF:-1 group-title="C0MCL4RK" tvg-id="CCTV4.ch@SD",CCTV 4 (480p)
-https://streams.comclark.com/pknsd/cctv_4/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CelestialClassicMovies.hk@SD" tvg-logo="https://i.imgur.com/1VhXilw.png" group-title="C0MCL4RK",Celestial Classic Movies (480p)
-https://streams.comclark.com/pknsd/celestial/playlist.m3u8
-
-#EXTINF:-1 group-title="C0MCL4RK",Channel News Asia
-https://streams.comclark.com/pknsd/channel_news_asia/playlist.m3u8
-
-#EXTINF:-1 group-title="C0MCL4RK",Cinema One
-https://streams.comclark.com/pknsd/cinemaone/playlist.m3u8
-
-#EXTINF:-1 group-title="C0MCL4RK" tvg-id="CineMo.ph@SD",Cinemo (480p)
-https://streams.comclark.com/pknsd/cinemo/playlist.m3u8
-
-#EXTINF:-1 group-title="C0MCL4RK" tvg-id="CGTN.ch@SD",CGTN (480p)
-https://streams.comclark.com/pknsd/cgtn/playlist.m3u8
-
-#EXTINF:-1 group-title="C0MCL4RK",CGTN Documentary
-https://streams.comclark.com/pknsd/cgtn_documentary/playlist.m3u8
-
-#EXTINF:-1 group-title="C0MCL4RK",CNN
-https://streams.comclark.com/pknhd/cnn_hd/playlist.m3u8
-
-#EXTINF:-1 group-title="C0MCL4RK",DWTV
-https://streams.comclark.com/pknsd/deutsche_welle/playlist.m3u8
-
-#EXTINF:-1 group-title="C0MCL4RK",DZMM Teleradyo
-https://streams.comclark.com/pknsd/teleradyo/playlist.m3u8
-
-#EXTINF:-1 group-title="C0MCL4RK",Edgesports
-https://streams.comclark.com/pknsd/edgesports/playlist.m3u8
-
-#EXTINF:-1 group-title="C0MCL4RK",Euro News
-https://streams.comclark.com/pknsd/euronews/playlist.m3u8
-
-#EXTINF:-1 group-title="C0MCL4RK",EWTN
-https://streams.comclark.com/pknsd/ewtn/playlist.m3u8
-
-#EXTINF:-1 group-title="C0MCL4RK" tvg-id="FilAmTVNetwork.us@HD",FilAmTV Network
-https://streams.comclark.com/pknsd/filamtv/playlist.m3u8
-
-#EXTINF:-1 group-title="C0MCL4RK",Fuji 
-https://streams.comclark.com/pknsd/fuji/playlist.m3u8
-
-#EXTINF:-1 group-title="C0MCL4RK",GMA
-https://streams.comclark.com/pknsd/gma_7/chunks.m3u8
-
-#EXTINF:-1 group-title="C0MCL4RK",GNN
-https://streams.comclark.com/pknsd/onemedia/playlist.m3u8
-
-#EXTINF:-1 group-title="C0MCL4RK" tvg-id="GTV.ph@SD",GTV (480p) 
-https://streams.comclark.com/pknsd/gtv/playlist.m3u8
-
-#EXTINF:-1 group-title="C0MCL4RK" tvg-id="IBC13.ph@SD",IBC 13 (480p) 
-https://streams.comclark.com/pknsd/ibc_13/playlist.m3u8
-
-#EXTINF:-1 group-title="C0MCL4RK",INC TV
-https://streams.comclark.com/pknsd/inc_tv/playlist.m3u8
-
-#EXTINF:-1 group-title="C0MCL4RK" tvg-id="JeepneyTV.ph@SD",Jeepney TV (480p)
-https://streams.comclark.com/pknsd/jeepney/playlist.m3u8
-
-#EXTINF:-1 group-title="C0MCL4RK",Kapamilya
-https://streams.comclark.com/pknhd/kapamilya_hd/playlist.m3u8
-
-#EXTINF:-1 tvg-id="KnowledgeChannel.ph@SD" tvg-logo="https://i.imgur.com/YrmMWXD.png" group-title="C0MCL4RK",Knowledge Channel (480p) 
-https://streams.comclark.com/pknsd/knowledge/playlist.m3u8
-
-#EXTINF:-1 group-title="C0MCL4RK",Light TV
-https://streams.comclark.com/pknsd/light_tv/playlist.m3u8
-
-#EXTINF:-1 group-title="C0MCL4RK" tvg-id="LivingAsiaChannel.ph@HD",Living Asia Channel
-https://streams.comclark.com/pknsd/lac/playlist.m3u8
-
-#EXTINF:-1 group-title="C0MCL4RK",Lotus Macau
-https://streams.comclark.com/pknhd/lotus_macau_hd/playlist.m3u8
-
-#EXTINF:-1 group-title="C0MCL4RK" tvg-id="MindanowNetworkTV.ph@SD",Mindanow Network TV
-https://streams.comclark.com/overlay/mindanow/playlist.m3u8
-
-#EXTINF:-1 group-title="C0MCL4RK" tvg-id="MYX.ph@SD",MYX (480p)
-https://streams.comclark.com/pknsd/myx/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Net25.ph@SD" tvg-logo="https://i.imgur.com/pPPubX5.png" group-title="C0MCL4RK",NET25 (480p)
-https://streams.comclark.com/pknsd/net_25/playlist.m3u8
-
-#EXTINF:-1 group-title="C0MCL4RK",NHK BS
-https://streams.comclark.com/pknsd/nhk_bs1/playlist.m3u8
-
-#EXTINF:-1 group-title="C0MCL4RK",NHK World
-https://streams.comclark.com/pknsd/nhk_world/playlist.m3u8
-
-#EXTINF:-1 group-title="C0MCL4RK",Nick Jr.
-https://streams.comclark.com/pknsd/nickjr/playlist.m3u8
-
-#EXTINF:-1 group-title="C0MCL4RK",One Sports
-https://streams.comclark.com/pknsd/one_sports/playlist.m3u8
-
-#EXTINF:-1 group-title="C0MCL4RK",Premier Football
-https://streams.comclark.com/pknhd/premier_football/playlist.m3u8
-
-#EXTINF:-1 group-title="C0MCL4RK",Premier Sports
-https://streams.comclark.com/pknhd/premier_sports/playlist.m3u8
-
-#EXTINF:-1 group-title="C0MCL4RK" tvg-id="PTV.ph@SD",PTV 4 (480p) 
-https://streams.comclark.com/pknsd/ptv/playlist.m3u8
-
-#EXTINF:-1 group-title="C0MCL4RK",Rock TV of Manila
-https://streams.comclark.com/pknsd/rock_tv_of_manila/playlist.m3u8
-
-#EXTINF:-1 group-title="C0MCL4RK" tvg-id="RPTV.ph@SD",RPTV (480p) 
-https://streams.comclark.com/pknsd/rptv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SolarSports.ph@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/Solar_Sports_2016_logo.png" group-title="C0MCL4RK",Solar Sports (480p)
-https://streams.comclark.com/pknsd/solar_sports/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SolarFlix.ph@SD" tvg-logo="https://i.imgur.com/kdf2Rrw.png" group-title="C0MCL4RK",SolarFlix (480p)
-https://streams.comclark.com/pknsd/solar_flix/playlist.m3u8
-
-#EXTINF:-1 group-title="C0MCL4RK",Star Channel 1
-https://streams.comclark.com/pknsd/starchannel1/playlist.m3u8
-
-#EXTINF:-1 group-title="C0MCL4RK" tvg-id="TAPEdge.ph@SD",Tap Edge (480p)
-https://streams.comclark.com/pknsd/tapedge/playlist.m3u8
-
-#EXTINF:-1 group-title="C0MCL4RK" tvg-id="TAPTV.ph@SD",Tap TV (480p)
-https://streams.comclark.com/pknsd/taptv/playlist.m3u8
-
-#EXTINF:-1 group-title="C0MCL4RK" tvg-id="TAPActionFlix.ph@SD",Tap Action Flix (480p)
-https://streams.comclark.com/pknsd/tapactionflix/playlist.m3u8
-
-#EXTINF:-1 group-title="C0MCL4RK" tvg-id="TAPMovies.ph@SD",Tap Movies (480p)
-https://streams.comclark.com/pknsd/tapmovies/playlist.m3u8
-
-#EXTINF:-1 group-title="C0MCL4RK",TapSilog
+#EXTINF:-1 group-title="RTMP",TapSilog
 rtmp://210.4.112.99:1935/tapdmv/TVN_movies
 
-#EXTINF:-1 group-title="C0MCL4RK" tvg-id="TAPSports.ph@SD",Tap Sports (480p)
-https://streams.comclark.com/pknsd/tapsports/playlist.m3u8
-
-#EXTINF:-1 group-title="C0MCL4RK",TBN Asia
-https://streams.comclark.com/pknsd/tbn/playlist.m3u8
-
-#EXTINF:-1 group-title="C0MCL4RK" tvg-id="Thrill.hk@SD",Thrill (480p)
-https://streams.comclark.com/pknsd/thrill/playlist.m3u8
-
-#EXTINF:-1 group-title="C0MCL4RK",TMC
-https://streams.comclark.com/pknsd/tmc/playlist.m3u8
-
-#EXTINF:-1 group-title="C0MCL4RK",TV Maria
-https://streams.comclark.com/pknsd/tvmaria/playlist.m3u8
-
-#EXTINF:-1 group-title="C0MCL4RK" tvg-id="TV5.ph@SD",TV5 (480p) 
-https://streams.comclark.com/pknsd/tv5/playlist.m3u8
-
-#EXTINF:-1 group-title="C0MCL4RK",TV5 Monde
-https://streams.comclark.com/pknsd/tv5monde/playlist.m3u8
-
-#EXTINF:-1 group-title="C0MCL4RK",TVe
-https://streams.comclark.com/pknsd/tve/playlist.m3u8
-
-#EXTINF:-1 group-title="C0MCL4RK",UFCTV
+#EXTINF:-1 group-title="RTMP",UFCTV
 rtmp://210.4.112.99:1935/tapdmv/UFCTV
-
-#EXTINF:-1 group-title="C0MCL4RK",UNTV
-https://streams.comclark.com/pknsd/untv/playlist.m3u8
-
-#EXTINF:-1 group-title="C0MCL4RK" group-title="C0MCL4RK" tvg-id="VegasLifeTV.us@HD",Vegas Life TV
-https://streams.comclark.com/pknsd/vegaslifetv/playlist.m3u8
-
-#EXTINF:-1 group-title="C0MCL4RK",Viva Cinema
-https://streams.comclark.com/pknsd/viva/playlist.m3u8
 
 #EXTINF:-1 group-title="CGREEN-161" tvg-logo="https://i.imgur.com/WcYS3S3.png",KAPAMILYA HD
 http://136.239.158.30:6610/001/2/ch00000090990000001286/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bqw65FFCygtQMRRIUPF0xuXytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001694&contentid=ch00000000000000001694&videoid=ch00000090990000001286&recommendtype=0&userid=1004802317138&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=CCJLYZ04O9IXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
@@ -623,6 +442,14 @@ https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/205/205.mpd
 #KODIPROP:inputstream.adaptive.license_key=ad2371259d34404cb89d54a4dc88dcd3:1ba155e345c4456ba891cbee9b3e1c4c
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/302/302.mpd
 
+#EXTINF:-1 tvg-id="tv5" tvg-logo="https://qp-pldtcms-image-resizer-cloud-prod.akamaized.net/image/A47D8F20-1C63-4E95-AB72-9F305D6C81E4/0-16x9.jpg?height=150" group-title="CRED-PL4Y-2",NCAA NXT
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fc6e4b9218f534a709d165c3a7e2f8048:87c0e7cf73324aea32dada7b5f33063d
+https://ucdn.mediaquest.com.ph/bpk-tv/cg_hbofam/default/index.mpd
+#EXTINF:-1 tvg-id="tv5" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/B3F8E1A6-2C75-49D0-A4B9-8E613F7C529D//0-3x1.jpg?width=1366" group-title="CRED-PL4Y-2",Studio Universal
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f8391e9130634854b4614f02ec028ea7:9b9640f873cf906b91dd03c02612d5ce
+https://ucdn.mediaquest.com.ph/bpk-tv/cg_studio_universal_hd/default/index.mpd
 #EXTINF:-1 tvg-id="tv5" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A97A2-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="CRED-PL4Y-2",TV5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9c3e7a516d824f04a9175b8c2e3d7040:524a9c2cec98272f71c347345a3fd12e
