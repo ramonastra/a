@@ -25,10 +25,15 @@ https://livebytsctbu.vtvprime.vn/mean/MUSICBOX/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=b994480f788d41ddbc805862ac469416:78a6a0fc1758483595da7113e58e4467
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Shortstv2/default/manifest.mpd
 
-#EXTINF:-1 group-title="AB$-C8N" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Kapamilya_Channel_Logo_2020.svg/330px-Kapamilya_Channel_Logo_2020.svg.png",KapamilyaChannel
+#EXTINF:-1 group-title="AB$-C8N" tvg-logo="https://mb.com.ph/uploads/imported_images/pbb_96a59d4c16.jpg",PBB Collab All Access
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=bd17afb5dc9648a39be79ee3634dd4b8:b475084a1a58857e18480e30fbb0e544
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=5208606a1a5e4750bc7aaafa3bbad84c:246d9c7efc6d96d8d596aa294313e17b
+https://absp-live.akamaized.net/dash/live/2099522/pbbcollab30allaccesslivestream/manifest.mpd
+
+#EXTINF:-1 group-title="AB$-C8N" tvg-logo="https://mb.com.ph/uploads/imported_images/pbb_96a59d4c16.jpg",PBB Collab Main
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=02b0d6aa78d547af890c9e27113e81af:890160f8ece56b8cd232889acb74e276
+https://abslive.akamaized.net/dash/live/2027618/pinoybigbrothercollabedition30live/manifest.mpd
 
 #EXTINF:-1 group-title="AB$-C8N" tvg-logo="https://i.imgur.com/Bcu69bU.png",ANCPH
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
