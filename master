@@ -32,12 +32,12 @@ https://absp-live.akamaized.net/dash/live/2099522/pbbcollab30allaccesslivestream
 
 #EXTINF:-1 group-title="AB$-C8N" tvg-logo="https://mb.com.ph/uploads/imported_images/pbb_96a59d4c16.jpg",PBB Collab 3.0 Live
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b750a40736a24e60b5a4f256208b92c5:af07292597f692726dcac2bd297ddf8e
+#KODIPROP:inputstream.adaptive.license_key=1044e7ece2d741bcafe80d8613da104f:f5e17f169ff05ea40c5d3f065f523942
 https://abslive.akamaized.net/dash/live/2027618/pinoybigbrothercollabedition30live/manifest.mpd
 
 #EXTINF:-1 group-title="AB$-C8N" tvg-logo="https://mb.com.ph/uploads/imported_images/pbb_96a59d4c16.jpg",PBB Collab 3.0 Dining Area
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b750a40736a24e60b5a4f256208b92c5:af07292597f692726dcac2bd297ddf8e
+#KODIPROP:inputstream.adaptive.license_key=ea6588d030c94ca89925ac0c49974430:3e6de4afee1eff8e14f9506b76ac9ee6
 https://absp-live.akamaized.net/dash/live/2099522/pbbcollab30allaccesslivestream-diningarea/manifest.mpd
 
 #EXTINF:-1 group-title="AB$-C8N" tvg-logo="https://mb.com.ph/uploads/imported_images/pbb_96a59d4c16.jpg",PBB Collab 3.0 External Den
